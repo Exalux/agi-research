@@ -111,84 +111,82 @@
     *In Intl. Conf. on Artificial General Intelligence, pp. 129–139.*  
     [PDF](https://alumni.media.mit.edu/~kris/ftp/AGI16_growing_recursive_self-improvers.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:XD_Q7EePNkUJ:scholar.google.com/&output=citation&scisdr=CgJeZl9mEL6uwv_6U0c:AAZF9b8AAAAAaEf8S0cGWxKeKYYs8HZ5UScfeME&scisig=AAZF9b8AAAAAaEf8S5wC_oFDMorIIT6hJd6AOEU&scisf=4&ct=citation&cd=-1&hl=en)
 
-## Recent Preprints and Benchmarks
-
-24. **Majumdar, S., Gangwani, T., Arora, A., Goel, K., Batra, D., & Goyal, A. (2025)**  
+24. **Wijaya Rahardja, A., Liu, J., Chen, W., Chen, Z., & Lou, Y. (2025)**  
 *Can Agents Fix Agent Issues?*  
 *arXiv preprint arXiv:2505.20749*.  
-[arXiv](https://arxiv.org/abs/2505.20749) | [PDF](https://arxiv.org/pdf/2505.20749.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:zthg14F3gPEJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2505.20749) | [PDF](https://arxiv.org/pdf/2505.20749.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:xNwmr4nIf-4J:scholar.google.com/&output=citation&scisdr=CgJeZl9mEL6uwvAAJbI:AAZF9b8AAAAAaEgGPbJjXTYRRhgw-k4LCV9D0-U&scisig=AAZF9b8AAAAAaEgGPVhlAR_sAojyQzAw1-0UEAM&scisf=4&ct=citation&cd=-1&hl=en)
 
-25. **Li, W., Zhao, Y., & Wang, B. (2025)**  
+25. **Cozzi, F., Pangallo, M., Perotti, A., Panisson, A., & Monti, C. (2025)**  
 *Learning Individual Behavior in Agent-Based Models with Graph Diffusion Network*  
 *arXiv preprint arXiv:2505.21426*.  
 [arXiv](https://arxiv.org/abs/2505.21426) | [PDF](https://arxiv.org/pdf/2505.21426.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:fyZ-4BgGfLgJ:scholar.google.com/&output=citation)
 
-26. **Wang, H., Zhu, Y., Fu, J., & Huang, Y. (2025)**  
+26. **Tan, H., Yan, H., & Yang, Y. (2025)**  
 *LLM-Guided Reinforcement Learning: Addressing Training Bottlenecks through Policy Modulation*  
 *arXiv preprint arXiv:2505.20671*.  
-[arXiv](https://arxiv.org/abs/2505.20671) | [PDF](https://arxiv.org/pdf/2505.20671.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:y6wQrwrGmYQJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2505.20671) | [PDF](https://arxiv.org/pdf/2505.20671.pdf) | BibTex
 
-27. **Zhang, X., Lin, B., Zhang, Q., et al. (2025)**  
+27. **Lyu, Z., Zhang, D., Ye, W., Li, F., Jiang, Z., & Yang, Y. (2025)**  
 *Jigsaw-Puzzles: From Seeing to Understanding to Reasoning in Vision-Language Models*  
 *arXiv preprint arXiv:2505.20728*.  
-[arXiv](https://arxiv.org/abs/2505.20728) | [PDF](https://arxiv.org/pdf/2505.20728.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:KjVkW1UWi8UJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2505.20728) | [PDF](https://arxiv.org/pdf/2505.20728.pdf) | BibTex
 
-28. **Fu, Y., Peng, B., Yang, L., et al. (2023)**  
+28. **Fu, C., Chen, P., Shen, Y., Qin, Y., Zhang, M., Lin, X., Yang, J., Li, K., Sun, X., Wu, Y. & Ji, R. (2025)**  
 *MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models*  
 *arXiv preprint arXiv:2306.13394*.  
-[arXiv](https://arxiv.org/abs/2306.13394) | [PDF](https://arxiv.org/pdf/2306.13394.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:i8nJBgkZgWgJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2306.13394) | [PDF](https://arxiv.org/pdf/2306.13394.pdf) | BibTex
 
-29. **Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2016)**  
+29. **Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017)**  
 *Building Machines That Learn and Think Like People*  
-*arXiv preprint arXiv:1604.00289*.  
-[arXiv](https://arxiv.org/abs/1604.00289) | [PDF](https://arxiv.org/pdf/1604.00289.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:9wrKgnX1G28J:scholar.google.com/&output=citation)
+*Behavioral and brain sciences, 40, e253.*.  
+[arXiv](https://arxiv.org/abs/1604.00289) | [PDF](https://arxiv.org/pdf/1604.00289.pdf) | BibTex
 
-30. **Vaswani, A., Shazeer, N., Parmar, N., et al. (2017)**  
+30. **Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017)**  
 *Attention Is All You Need*  
-*arXiv preprint arXiv:1706.03762*.  
-[arXiv](https://arxiv.org/abs/1706.03762) | [PDF](https://arxiv.org/pdf/1706.03762.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:AMhF5nN2XBkJ:scholar.google.com/&output=citation)
+*Advances in neural information processing systems, 30*.  
+[arXiv](https://arxiv.org/abs/1706.03762) | [PDF](https://arxiv.org/pdf/1706.03762.pdf) | BibTex
 
 31. **Shinn, N., & Labash, A. I. (2023)**  
 *Reflexion: Language Agents with Verbal Reinforcement Learning*  
 *arXiv preprint arXiv:2303.11366*.  
-[arXiv](https://arxiv.org/abs/2303.11366) | [PDF](https://arxiv.org/pdf/2303.11366.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:67ByUHz5OwUJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2303.11366) | [PDF](https://arxiv.org/pdf/2303.11366.pdf) | BibTex
 
 32. **Aljundi, R., Lin, M., Goujaud, B., & Bengio, Y. (2017)**  
 *Memory Aware Synapses: Learning what (not) to forget*  
 *arXiv preprint arXiv:1711.09601*.  
-[arXiv](https://arxiv.org/abs/1711.09601) | [PDF](https://arxiv.org/pdf/1711.09601.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:VQThEF_KwuwJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/1711.09601) | [PDF](https://arxiv.org/pdf/1711.09601.pdf) | BibTex
 
 33. **Lopez-Paz, D., & Ranzato, M. (2017)**  
 *Gradient Episodic Memory for Continual Learning*  
 *arXiv preprint arXiv:1706.08840*.  
-[arXiv](https://arxiv.org/abs/1706.08840) | [PDF](https://arxiv.org/pdf/1706.08840.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:8d8CgjQnQb0J:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/1706.08840) | [PDF](https://arxiv.org/pdf/1706.08840.pdf) | BibTex
 
 34. **Goyal, A., Lamb, A., Hoffmann, J., et al. (2019)**  
 *Recurrent Independent Mechanisms*  
 *arXiv preprint arXiv:1909.10893*.  
-[arXiv](https://arxiv.org/abs/1909.10893) | [PDF](https://arxiv.org/pdf/1909.10893.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:rx8vTRH1YfcJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/1909.10893) | [PDF](https://arxiv.org/pdf/1909.10893.pdf) | BibTex
 
 35. **Duan, Y., Schulman, J., Chen, X., et al. (2016)**  
 *RL²: Fast Reinforcement Learning via Slow Reinforcement Learning*  
 *arXiv preprint arXiv:1611.02779*.  
-[arXiv](https://arxiv.org/abs/1611.02779) | [PDF](https://arxiv.org/pdf/1611.02779.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:EVIG9Eh7GHgJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/1611.02779) | [PDF](https://arxiv.org/pdf/1611.02779.pdf) | BibTex
 
 36. **Yao, S., Zhao, S., Yu, D., et al. (2023)**  
 *Tree of Thoughts: Deliberate Problem Solving with Large Language Models*  
 *arXiv preprint arXiv:2305.10601*.  
-[arXiv](https://arxiv.org/abs/2305.10601) | [PDF](https://arxiv.org/pdf/2305.10601.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:nW7MaKXlKpYJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2305.10601) | [PDF](https://arxiv.org/pdf/2305.10601.pdf) | BibTex
 
 37. **Liu, Z., Zhao, Y., & Yang, Q. (2025)**  
 *Graph Neural Networks for Databases: A Survey*  
 *arXiv preprint arXiv:2502.12908v1*.  
-[arXiv](https://arxiv.org/abs/2502.12908v1) | [PDF](https://arxiv.org/pdf/2502.12908v1.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:GWZz6A6Y8IgJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2502.12908v1) | [PDF](https://arxiv.org/pdf/2502.12908v1.pdf) | BibTex
 
 38. **Xu, J., Su, Y., Wang, M., et al. (2025)**  
 *Decentralized Collective World Model for Emergent Communication and Coordination*  
 *arXiv preprint arXiv:2504.03353v1*.  
-[arXiv](https://arxiv.org/abs/2504.03353v1) | [PDF](https://arxiv.org/pdf/2504.03353v1.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:g3Wv6CPAkTQJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2504.03353v1) | [PDF](https://arxiv.org/pdf/2504.03353v1.pdf) | BibTex
 
 39. **Lehman, J., Sims, J., & Stanley, K. O. (2025)**  
 *Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents*  
 *arXiv preprint arXiv:2505.22954*.  
-[arXiv](https://arxiv.org/abs/2505.22954) | [PDF](https://arxiv.org/pdf/2505.22954.pdf) | [BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:1Es7jzkHDoMJ:scholar.google.com/&output=citation)
+[arXiv](https://arxiv.org/abs/2505.22954) | [PDF](https://arxiv.org/pdf/2505.22954.pdf) | BibTex
